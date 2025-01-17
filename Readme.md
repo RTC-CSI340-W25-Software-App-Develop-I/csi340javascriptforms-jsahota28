@@ -3,9 +3,7 @@
 
 ## Learning Goals
 
-- []**Understand how to prevent the default form submission behavior.**
-- []**Capture form data using JavaScript.**
-- []**Render form data dynamically to the DOM.**
+- []**er form data dynamically to the DOM.**
 - []**Implement event listeners to handle form submissions.**
 
 ## Handling Form Submissions in JavaScript
@@ -91,7 +89,9 @@ section.append(h2, nameP, emailP, phoneP, reasonP, messageP);
 
 ```
 
-</details>
+</details>Understand how to prevent the default form submission behavior.**
+- []**Capture form data using JavaScript.**
+- []**Rend
 
 ## Submission Instructions
 
